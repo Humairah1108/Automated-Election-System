@@ -1,9 +1,9 @@
 # Automated-Election-System
-Computer Science Year 2
-Semester 2 Assignment
-Electoral Commission
+#Computer Science Year 2
+#Semester 2 Assignment
+#Electoral Commission
 
-Main Features:
+#Main Features:
  Admin Login ( to allow administration by Election Commission)
  Candidate Login (to allow Candidate to register)
  Voters Login (to allow voter to log in and vote)
