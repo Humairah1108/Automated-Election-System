@@ -2,6 +2,7 @@
 Computer Science Year 2
 Semester 2 Assignment
 Electoral Commission
+```
 Team: Bandhu Dharesh, Emambakus Bibi Humairah, Rengony Aliah Bibi Sheefah, Armoogum Bryan, Jeeawan Mavish Kumar
 #Main Features:
  Admin Login ( to allow administration by Election Commission)
@@ -16,3 +17,4 @@ each candidate)
 district)
  Voting conduction module (to allow voter from a district to cast his
 votes)
+``
