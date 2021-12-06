@@ -1,0 +1,25 @@
+export CLASSPATH=.:mysql-connector-java-8.0.24.jar
+javac Admin_Gui.java && java Admin_Gui && rm *.class
+javac User_gui.java && java User_gui && rm *.class
+
+
+//voter
+
+J459861236059875
+t694u#7H
+
+//candidate
+
+S1542453873568998
+password1234
+
+
+//admin
+razvAgbRg2015gt
+
+
+//register candidate
+B032169857425896
+
+//register voter
+C897634215689325
